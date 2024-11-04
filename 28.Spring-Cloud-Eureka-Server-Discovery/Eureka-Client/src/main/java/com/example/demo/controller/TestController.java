@@ -16,14 +16,14 @@ public class TestController {
     @Autowired
     private DiscoveryClient client;
 
-    @GetMapping("/info")
-    public String info() {
-        @SuppressWarnings("deprecation")
-        ServiceInstance instance = client.getLocalServiceInstance();
-        String info = "host：" + instance.getHost() + "，service_id：" + instance.getServiceId();
-        log.info(info);
-        return info;
-    }
+//    @GetMapping("/info")
+//    public String info() {
+//        @SuppressWarnings("deprecation")
+//        ServiceInstance instance = client.getLocalServiceInstance();
+//        String info = "host：" + instance.getHost() + "，service_id：" + instance.getServiceId();
+//        log.info(info);
+//        return info;
+//    }
 
     @GetMapping("/hello")
     public String hello() {
