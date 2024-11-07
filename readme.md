@@ -1,5 +1,7 @@
 ## Spring 系列教程
-该仓库为个人博客[https://mrbird.cc](https://mrbird.cc)中Spring系列源码，包含Spring Boot、Spring Boot & Shiro、Spring Cloud，Spring Boot & Spring Security & Spring Security OAuth2，如果该系列教程对您有帮助的话，还请点个star给予精神支持！🐤
+fork自[wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)，学习过程中将部分demo的spring boot以及cloud的版本进行了更新，同时对版本更新后产生的问题进行修复。持续学习该仓库中。
+
+[该仓库为个人博客[https://mrbird.cc](https://mrbird.cc)中Spring系列源码，包含Spring Boot、Spring Boot & Shiro、Spring Cloud，Spring Boot & Spring Security & Spring Security OAuth2，如果该系列教程对您有帮助的话，还请点个star给予精神支持！🐤]
 
 ### Spring Boot教程 
 1. [开启Spring Boot](https://mrbird.cc/%E5%BC%80%E5%90%AFSpring-Boot.html)
